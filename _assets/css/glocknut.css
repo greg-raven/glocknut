@@ -1,0 +1,67 @@
+body {
+  font-size: 17.5px;
+}
+
+caption {
+  text-align: center;
+}
+
+dt {
+  margin-top: 1em;
+}
+
+figure, iframe {
+  margin: 0;
+  padding-left: 1em;
+  padding-bottom: 1em;
+}
+
+figcaption {
+  font-style: italic;
+}
+
+h2 small a:link, h3 small a:link, h4 small a:link {
+  float: right;
+}
+
+img {
+  max-width: 100% !important;
+  vertical-align: middle;
+}
+
+li {
+  padding-bottom: 0.6em;
+}
+
+.img-responsive {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.img-thumbnail {
+  padding: 4px;
+  line-height: 1.42857143;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  -webkit-transition: all .2s ease-in-out;
+  -o-transition: all .2s ease-in-out;
+  transition: all .2s ease-in-out;
+  display: inline-block;
+  max-width: 100%;
+  height: auto
+}
+
+.pdf {
+  height: 600px;
+  width: 100%;
+}
+
+.pull-right {
+  margin-left: 1em;
+}
+
+.pull-left {
+  margin-right: 1em;
+}
